@@ -9,7 +9,10 @@ public class PlayerScript : MonoBehaviour
 {
     public SpriteRenderer sr;
     public Rigidbody2D rb;
+    public Animator anim;
+
     StateMachine sm;
+    
 
     //define the actions
     public InputAction moveAction;
@@ -26,6 +29,7 @@ public class PlayerScript : MonoBehaviour
         sm = new StateMachine(this); //"this" means - pass a reference of this script (player script) to the statemachine
         sr = GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
 
         sm.Init(sm.idleState); //this will be the first state to run 
 
@@ -34,8 +38,8 @@ public class PlayerScript : MonoBehaviour
         crouchAction = InputSystem.actions.FindAction("Crouch");
         interactAction = InputSystem.actions.FindAction("Interact");
         jumpAction = InputSystem.actions.FindAction("Jump");
-        attackAction = InputSystem.actions.FindAction("attack");
-        deathAction = InputSystem.actions.FindAction("death");
+        attackAction = InputSystem.actions.FindAction("Attack");
+        
 
     }
 

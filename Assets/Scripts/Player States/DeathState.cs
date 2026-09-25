@@ -16,7 +16,6 @@ public class DeathState : State
     {
         base.Enter();
         Debug.Log("entering death state");
-        player.sr.color = new Color(0.6f, 0.4f, 0.1f);
     }
 
     public override void Exit()

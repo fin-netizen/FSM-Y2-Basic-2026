@@ -3,6 +3,7 @@ using System.Collections;
 
 public class AttackState : State
 {
+    float attackTime;
 
     public AttackState(PlayerScript player, StateMachine sm) : base(player, sm)
     {
@@ -12,45 +13,38 @@ public class AttackState : State
     {
         base.Enter();
         Debug.Log("entering attacking state");
-        player.sr.color = new Color(0.8f, 0.7f, 0.1f);
+
+        //start your attack animation
+
+        player.anim.SetBool("Attack", true);
+
+        attackTime = 3;
+       
     }
 
     public override void Exit()
     {
         base.Exit();
+
+        //do stuff to stop the animation
+        player.anim.SetBool("Attack", false);
     }
 
 
     // Update is called once per frame
     public override void Update()
     {
-        TestMethod("hello");
-
+      
         ReadInput();
 
-        if (player.interactAction.IsPressed())
+        //check for the attack finishing
+        attackTime -= Time.deltaTime;
+
+        if( attackTime < 0 )
         {
             sm.ChangeState(sm.idleState);
         }
-        if (player.jumpAction.IsPressed())
-        {
-            sm.ChangeState(sm.jumpState);
-        }
-        if (player.deathAction.IsPressed())
-        {
-            sm.ChangeState(sm.deathState);
-        }
-        if (player.moveAction.ReadValue<Vector2>().magnitude > 0.1f)
-        {
-            sm.ChangeState(sm.runState);
-        }
 
-        UIscript.ui.DrawText("*** This is the attacking state ***\n");
-        UIscript.ui.DrawText("Space = Jump State");
-        UIscript.ui.DrawText("E = Idle State");
-        UIscript.ui.DrawText("Left/Right arrows = Move State");
-        UIscript.ui.DrawText("C = Start the coroutine");
-        UIscript.ui.DrawText("Q = Death State");
 
     }
 }

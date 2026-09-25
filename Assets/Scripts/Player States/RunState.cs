@@ -20,13 +20,13 @@ public class RunState : State
         horizontalInput = verticalInput = 0.0f;
 
         Debug.Log("entering running state");
-
-        player.sr.color = new Color(0.8f, 0.8f, 0.2f);
+        player.anim.SetBool("Move", true);
     }
 
     public override void Exit()
     {
         base.Exit();
+        player.anim.SetBool("Move", false);
     }
 
 

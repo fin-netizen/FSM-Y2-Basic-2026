@@ -17,14 +17,14 @@ public class IdleState : State
         // this method is called when the state begins
 
         Debug.Log("entering idle state");
-        player.sr.color = new Color(0.5f, 0.8f, 0.7f);
+        player.anim.SetBool("Idle", true);
     }
 
     public override void Exit()
     {
         // this method is called when the state has finished
         Debug.Log("exiting idle state");
-
+        player.anim.SetBool("Idle", false);
         //you should disable any running coroutines here
         player.StopAllCoroutines();
     }
@@ -41,20 +41,13 @@ public class IdleState : State
         {
             sm.ChangeState(sm.jumpState);
         }
-        if (player.deathAction.IsPressed())
-        {
-            sm.ChangeState(sm.deathState);
-        }
+      
         if (player.attackAction.IsPressed())
         {
             sm.ChangeState(sm.attackState);
         }
 
-        //example of running a coroutine from a state and not directly from the monobehaviour
-        if (player.crouchAction.IsPressed())
-        {
-            player.StartCoroutine( IdleCo() );
-        }
+     
 
         UIscript.ui.DrawText("*** This is the idle state ***\n");
         UIscript.ui.DrawText("Space = Jump State");
@@ -75,22 +68,7 @@ public class IdleState : State
     }
 
 
-    public IEnumerator IdleCo()
-    {
-        for (int i = 0; i < 5; i++)
-        {
-            yield return new WaitForSeconds(2);
-            Debug.Log("Coroutine step 1");
-
-            yield return new WaitForSeconds(2);
-            Debug.Log("Coroutine step 2");
-
-            Debug.Log("Coroutine repeat " + (i+1));
-
-        }
-        yield break;
-    }
-
+    
 
 
 
