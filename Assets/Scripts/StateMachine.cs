@@ -12,7 +12,8 @@ public class StateMachine
     public IdleState idleState;
     public JumpState jumpState;
     public RunState runState;
-
+    public AttackState attackState;
+    public DeathState deathState;
 
     //constructor
     public StateMachine( PlayerScript player )
@@ -21,7 +22,8 @@ public class StateMachine
         idleState = new IdleState(player, this);
         jumpState = new JumpState(player, this);
         runState = new RunState(player, this);
-
+        attackState = new AttackState(player, this);
+        deathState = new DeathState(player, this);
     }
 
     public void Init(State startingState)

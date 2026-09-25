@@ -49,6 +49,14 @@ public class RunState : State
         {
             sm.ChangeState(sm.jumpState);
         }
+        if (player.deathAction.IsPressed())
+        {
+            sm.ChangeState(sm.deathState);
+        }
+        if (player.attackAction.IsPressed())
+        {
+            sm.ChangeState(sm.attackState);
+        }
 
         //debug move gameObject
         player.rb.linearVelocity = player.moveAction.ReadValue<Vector2>() * speed;
@@ -58,7 +66,8 @@ public class RunState : State
         UIscript.ui.DrawText("Left/Right arrows = Move Sprite");
         UIscript.ui.DrawText("E = Idle State");
         UIscript.ui.DrawText("Space = Jump state");
-
+        UIscript.ui.DrawText("Q = Death State");
+        UIscript.ui.DrawText("F = Attacking State");
 
 
     }
