@@ -20,13 +20,13 @@ public class RunState : State
         horizontalInput = verticalInput = 0.0f;
 
         Debug.Log("entering running state");
-        player.anim.SetBool("Move", true);
+        player.anim.SetBool("walk", true);
     }
 
     public override void Exit()
     {
         base.Exit();
-        player.anim.SetBool("Move", false);
+        player.anim.SetBool("walk", false);
     }
 
 

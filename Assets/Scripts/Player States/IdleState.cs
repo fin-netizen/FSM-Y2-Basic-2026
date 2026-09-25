@@ -17,14 +17,14 @@ public class IdleState : State
         // this method is called when the state begins
 
         Debug.Log("entering idle state");
-        player.anim.SetBool("Idle", true);
+        player.anim.SetBool("idle", true);
     }
 
     public override void Exit()
     {
         // this method is called when the state has finished
         Debug.Log("exiting idle state");
-        player.anim.SetBool("Idle", false);
+        player.anim.SetBool("idle", false);
         //you should disable any running coroutines here
         player.StopAllCoroutines();
     }
