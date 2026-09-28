@@ -40,7 +40,7 @@ public class RunState : State
 
         ReadInput();
 
-        if (player.interactAction.IsPressed())
+        if (player.moveAction.ReadValue<Vector2>().magnitude <= 0.1f)
         {
             sm.ChangeState(sm.idleState);
         }

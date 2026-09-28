@@ -16,13 +16,14 @@ public class JumpState : State
     public override void Enter()
     {
         Debug.Log("entering jumping state");
-
-          //change the sprite colour
+        player.anim.SetBool("jump", true);
+        //change the sprite colour
     }
 
     public override void Exit()
     {
         //exit the jump state
+        player.anim.SetBool("jump", false);
     }
 
     public override void Update()
