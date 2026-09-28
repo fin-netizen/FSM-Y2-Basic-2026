@@ -12,7 +12,7 @@ public class PlayerScript : MonoBehaviour
     public Animator anim;
 
     StateMachine sm;
-    
+    public GameObject weapon;
     //define the actions
     public InputAction moveAction;
     public InputAction crouchAction;

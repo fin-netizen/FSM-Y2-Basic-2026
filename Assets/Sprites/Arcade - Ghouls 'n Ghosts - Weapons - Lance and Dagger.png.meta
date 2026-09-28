@@ -224,11 +224,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 82
-        width: 43
-        height: 8
-      alignment: 0
+        x: 5
+        y: 83
+        width: 41
+        height: 6
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -246,11 +246,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_1
       rect:
         serializedVersion: 2
-        x: 54
-        y: 50
-        width: 8
-        height: 36
-      alignment: 0
+        x: 55
+        y: 51
+        width: 6
+        height: 34
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -268,11 +268,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_2
       rect:
         serializedVersion: 2
-        x: 71
-        y: 54
-        width: 8
-        height: 36
-      alignment: 0
+        x: 72
+        y: 55
+        width: 6
+        height: 34
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -290,11 +290,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_3
       rect:
         serializedVersion: 2
-        x: 88
-        y: 75
-        width: 8
-        height: 20
-      alignment: 0
+        x: 89
+        y: 76
+        width: 6
+        height: 18
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -312,11 +312,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_4
       rect:
         serializedVersion: 2
-        x: 124
-        y: 82
-        width: 25
-        height: 8
-      alignment: 0
+        x: 125
+        y: 83
+        width: 23
+        height: 6
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -334,11 +334,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_5
       rect:
         serializedVersion: 2
-        x: 3
-        y: 65
-        width: 43
-        height: 8
-      alignment: 0
+        x: 4
+        y: 66
+        width: 41
+        height: 6
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -356,11 +356,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_6
       rect:
         serializedVersion: 2
-        x: 105
-        y: 61
-        width: 8
-        height: 20
-      alignment: 0
+        x: 106
+        y: 62
+        width: 6
+        height: 18
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -378,11 +378,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_7
       rect:
         serializedVersion: 2
-        x: 119
-        y: 65
-        width: 25
-        height: 8
-      alignment: 0
+        x: 120
+        y: 66
+        width: 23
+        height: 6
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -400,11 +400,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 36
-        width: 34
-        height: 10
-      alignment: 0
+        x: 1
+        y: 37
+        width: 32
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -422,11 +422,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 27
-        width: 18
-        height: 10
-      alignment: 0
+        x: 52
+        y: 29
+        width: 58
+        height: 16
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -444,11 +444,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_10
       rect:
         serializedVersion: 2
-        x: 16
-        y: 27
-        width: 34
-        height: 10
-      alignment: 0
+        x: 113
+        y: 37
+        width: 8
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -466,11 +466,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_11
       rect:
         serializedVersion: 2
-        x: 51
-        y: 28
-        width: 60
-        height: 18
-      alignment: 0
+        x: 129
+        y: 37
+        width: 40
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -488,11 +488,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_12
       rect:
         serializedVersion: 2
-        x: 56
-        y: 27
-        width: 26
-        height: 10
-      alignment: 0
+        x: 169
+        y: 37
+        width: 8
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -510,11 +510,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_13
       rect:
         serializedVersion: 2
-        x: 80
-        y: 27
-        width: 26
-        height: 10
-      alignment: 0
+        x: 1
+        y: 28
+        width: 16
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -532,11 +532,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_14
       rect:
         serializedVersion: 2
-        x: 112
-        y: 36
-        width: 10
-        height: 10
-      alignment: 0
+        x: 17
+        y: 28
+        width: 32
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -554,11 +554,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_15
       rect:
         serializedVersion: 2
-        x: 128
-        y: 36
-        width: 42
-        height: 10
-      alignment: 0
+        x: 57
+        y: 28
+        width: 24
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -576,11 +576,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_16
       rect:
         serializedVersion: 2
-        x: 168
-        y: 36
-        width: 10
-        height: 10
-      alignment: 0
+        x: 81
+        y: 28
+        width: 24
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -598,11 +598,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_17
       rect:
         serializedVersion: 2
-        x: 0
-        y: 18
-        width: 10
-        height: 10
-      alignment: 0
+        x: 1
+        y: 19
+        width: 8
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -620,11 +620,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_18
       rect:
         serializedVersion: 2
-        x: 0
-        y: 9
-        width: 10
-        height: 10
-      alignment: 0
+        x: 9
+        y: 19
+        width: 16
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -642,11 +642,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_19
       rect:
         serializedVersion: 2
-        x: 8
-        y: 18
-        width: 18
-        height: 10
-      alignment: 0
+        x: 27
+        y: 19
+        width: 4
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -664,11 +664,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_20
       rect:
         serializedVersion: 2
-        x: 10
-        y: 9
-        width: 6
-        height: 10
-      alignment: 0
+        x: 33
+        y: 19
+        width: 8
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -686,11 +686,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_21
       rect:
         serializedVersion: 2
-        x: 16
-        y: 9
-        width: 34
-        height: 10
-      alignment: 0
+        x: 52
+        y: 11
+        width: 45
+        height: 16
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -708,11 +708,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_22
       rect:
         serializedVersion: 2
-        x: 26
-        y: 18
-        width: 6
-        height: 10
-      alignment: 0
+        x: 98
+        y: 19
+        width: 15
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -730,11 +730,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_23
       rect:
         serializedVersion: 2
-        x: 32
-        y: 18
-        width: 10
-        height: 10
-      alignment: 0
+        x: 113
+        y: 19
+        width: 40
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -752,11 +752,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_24
       rect:
         serializedVersion: 2
-        x: 51
+        x: 1
         y: 10
-        width: 47
-        height: 18
-      alignment: 0
+        width: 8
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -774,11 +774,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_25
       rect:
         serializedVersion: 2
-        x: 56
-        y: 9
-        width: 34
-        height: 10
-      alignment: 0
+        x: 11
+        y: 10
+        width: 4
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -796,11 +796,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_26
       rect:
         serializedVersion: 2
-        x: 96
-        y: 9
-        width: 34
-        height: 10
-      alignment: 0
+        x: 17
+        y: 10
+        width: 32
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -818,11 +818,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_27
       rect:
         serializedVersion: 2
-        x: 97
-        y: 18
-        width: 17
-        height: 10
-      alignment: 0
+        x: 57
+        y: 10
+        width: 32
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -840,11 +840,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_28
       rect:
         serializedVersion: 2
-        x: 112
-        y: 18
-        width: 42
-        height: 10
-      alignment: 0
+        x: 97
+        y: 10
+        width: 32
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -862,11 +862,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_29
       rect:
         serializedVersion: 2
-        x: 130
-        y: 9
-        width: 6
-        height: 10
-      alignment: 0
+        x: 131
+        y: 10
+        width: 4
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -884,11 +884,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_30
       rect:
         serializedVersion: 2
-        x: 136
-        y: 9
-        width: 10
-        height: 10
-      alignment: 0
+        x: 137
+        y: 10
+        width: 8
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -906,11 +906,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_31
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 10
-        height: 10
-      alignment: 0
+        x: 1
+        y: 1
+        width: 8
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -928,11 +928,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_32
       rect:
         serializedVersion: 2
-        x: 8
-        y: 0
-        width: 26
-        height: 10
-      alignment: 0
+        x: 9
+        y: 1
+        width: 24
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -950,11 +950,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_33
       rect:
         serializedVersion: 2
-        x: 34
-        y: 0
-        width: 6
-        height: 10
-      alignment: 0
+        x: 35
+        y: 1
+        width: 4
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -972,11 +972,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_34
       rect:
         serializedVersion: 2
-        x: 40
-        y: 0
-        width: 15
-        height: 10
-      alignment: 0
+        x: 41
+        y: 1
+        width: 13
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -994,11 +994,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_35
       rect:
         serializedVersion: 2
-        x: 56
-        y: 0
-        width: 10
-        height: 10
-      alignment: 0
+        x: 57
+        y: 1
+        width: 8
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1016,11 +1016,11 @@ TextureImporter:
       name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_36
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 42
-        height: 10
-      alignment: 0
+        x: 65
+        y: 1
+        width: 40
+        height: 8
+      alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
@@ -1038,7 +1038,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fc4f5b1732fc1f242ae8002ff73ec479
     internalID: 0
     vertices: []
     indices: 
@@ -1046,7 +1046,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":1,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_0: 3061260332328469880
       Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_1: 138106800196687821
