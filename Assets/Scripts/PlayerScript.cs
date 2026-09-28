@@ -13,7 +13,6 @@ public class PlayerScript : MonoBehaviour
 
     StateMachine sm;
     
-
     //define the actions
     public InputAction moveAction;
     public InputAction crouchAction;
@@ -30,7 +29,7 @@ public class PlayerScript : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-
+        
         sm.Init(sm.idleState); //this will be the first state to run 
 
         //initialise the actions
@@ -47,7 +46,7 @@ public class PlayerScript : MonoBehaviour
     {
         //do not put any of your own methods here - they go in the individual state files
         sm.Update();
-
+        
         UIscript.ui.DrawText("Current state= " + sm.currentState + "  Last state= " + sm.lastState);
 
     }
@@ -71,7 +70,7 @@ public class PlayerScript : MonoBehaviour
     {
         sm.currentState.OnTriggerExit2D(collision);
     }
-
+    
 
 
 }

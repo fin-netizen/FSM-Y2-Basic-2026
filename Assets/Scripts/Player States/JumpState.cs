@@ -2,12 +2,12 @@
 //This means it inherits fields and methods from State.cs
 
 
+using Unity.VisualScripting.FullSerializer;
 using UnityEngine;
 
 public class JumpState : State
 {
     float rotationSpeed;
-
     
     public JumpState(PlayerScript player, StateMachine sm) : base(player, sm)
     {
@@ -17,6 +17,7 @@ public class JumpState : State
     {
         Debug.Log("entering jumping state");
         player.anim.SetBool("jump", true);
+        player.rb.linearVelocityY = 5;
         //change the sprite colour
     }
 
@@ -25,12 +26,15 @@ public class JumpState : State
         //exit the jump state
         player.anim.SetBool("jump", false);
     }
-
+    
     public override void Update()
     {
+        IsGrounded();
+
         ReadInput();
 
-        if (player.interactAction.IsPressed())
+        Debug.Log("grounded=" + isGrounded);
+        if (isGrounded == true && player.rb.linearVelocityY <= 0 )
         {
             sm.ChangeState(sm.idleState);
 
@@ -43,19 +47,6 @@ public class JumpState : State
         {
             sm.ChangeState(sm.attackState);
         }
-
-
-        if (player.moveAction.ReadValue<Vector2>().magnitude > 0.1f )
-        {
-            sm.ChangeState(sm.runState);
-        }
-
-        UIscript.ui.DrawText("*** This is the jumping state ***\n");
-        UIscript.ui.DrawText("Left/Right arrows = Move State");
-        UIscript.ui.DrawText("E = Idle State");
-        UIscript.ui.DrawText("Q = Death State");
-        UIscript.ui.DrawText("F = Attacking State");
-
     }
 
     public override void FixedUpdate()

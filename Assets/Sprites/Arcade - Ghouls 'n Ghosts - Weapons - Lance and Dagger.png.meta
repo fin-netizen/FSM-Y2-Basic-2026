@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 5b8ad3cfd33c46b46ad6561d950e7356
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3061260332328469880
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_0
+  - first:
+      213: 138106800196687821
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_1
+  - first:
+      213: -330487047393532412
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_2
+  - first:
+      213: 6073690179540481173
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_3
+  - first:
+      213: -5888418210618125321
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_4
+  - first:
+      213: -7594121973138714390
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_5
+  - first:
+      213: -245656024989665278
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_6
+  - first:
+      213: -1323392943063132158
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_7
+  - first:
+      213: 5772112469149903844
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_8
+  - first:
+      213: 3470978944184010853
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_9
+  - first:
+      213: -5260057726708874491
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_10
+  - first:
+      213: 7222991066516248360
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_11
+  - first:
+      213: -6773189041879961399
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_12
+  - first:
+      213: 7556058782673836124
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_13
+  - first:
+      213: 359374715282254032
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_14
+  - first:
+      213: -1386686812055322979
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_15
+  - first:
+      213: 6654903822891146109
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_16
+  - first:
+      213: 1786204259431560080
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_17
+  - first:
+      213: -1784894854108799525
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_18
+  - first:
+      213: 3038494433345804261
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_19
+  - first:
+      213: -2882492588796323976
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_20
+  - first:
+      213: -1506286179990485810
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_21
+  - first:
+      213: -3123372953896775540
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_22
+  - first:
+      213: -4074659131065441219
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_23
+  - first:
+      213: -1433220605924259783
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_24
+  - first:
+      213: 2634264203624821677
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_25
+  - first:
+      213: -4574445546911609191
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_26
+  - first:
+      213: 7056133177024112561
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_27
+  - first:
+      213: -6242308493365163932
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_28
+  - first:
+      213: 8809109242796867184
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_29
+  - first:
+      213: -6428802263403527284
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_30
+  - first:
+      213: -4154872533365827539
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_31
+  - first:
+      213: 6857020760608094042
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_32
+  - first:
+      213: -2853797850021715765
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_33
+  - first:
+      213: -6185527606951193972
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_34
+  - first:
+      213: 5514087539978214888
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_35
+  - first:
+      213: 668836959757831080
+    second: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 82
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875ce619d08cb7a20800000000000000
+      internalID: 3061260332328469880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 50
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc71ace2767aae100800000000000000
+      internalID: 138106800196687821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 54
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406ad3908cfd96bf0800000000000000
+      internalID: -330487047393532412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 75
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594f94bd9051a4450800000000000000
+      internalID: 6073690179540481173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 82
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f35a2be5d2284ea0800000000000000
+      internalID: -5888418210618125321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae014120d424c9690800000000000000
+      internalID: -7594121973138714390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 61
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2087e859521479cf0800000000000000
+      internalID: -245656024989665278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 65
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2089672412d52ade0800000000000000
+      internalID: -1323392943063132158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb684f65b9aa1050800000000000000
+      internalID: 5772112469149903844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568c2fea5f46b2030800000000000000
+      internalID: 3470978944184010853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5030875dd558007b0800000000000000
+      internalID: -5260057726708874491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 28
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827558f1b183d3460800000000000000
+      internalID: 7222991066516248360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c03d2ac37cc002a0800000000000000
+      internalID: -6773189041879961399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c589e3bdd638cd860800000000000000
+      internalID: 7556058782673836124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8e7a54661ccf400800000000000000
+      internalID: 359374715282254032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 36
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e39b001bf71cce0800000000000000
+      internalID: -1386686812055322979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bd0d984c7fa5c50800000000000000
+      internalID: 6654903822891146109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09335bb6f4fd9c810800000000000000
+      internalID: 1786204259431560080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd1c634697ca37e0800000000000000
+      internalID: -1784894854108799525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e71497a696ea2a20800000000000000
+      internalID: 3038494433345804261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877591933445ff7d0800000000000000
+      internalID: -2882492588796323976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4469f23b8981be0800000000000000
+      internalID: -1506286179990485810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c809be5c8dc87a4d0800000000000000
+      internalID: -3123372953896775540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34ea08db17e377c0800000000000000
+      internalID: -4074659131065441219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9384d13d37d2c1ce0800000000000000
+      internalID: -1433220605924259783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3b5951659ce8420800000000000000
+      internalID: 2634264203624821677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 9
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e47f3f20e4480c0800000000000000
+      internalID: -4574445546911609191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 18
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7ee505dbb6ce160800000000000000
+      internalID: 7056133177024112561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 18
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468c09a9f7dde59a0800000000000000
+      internalID: -6242308493365163932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e74840f2e304a70800000000000000
+      internalID: 8809109242796867184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c830b96176e48c6a0800000000000000
+      internalID: -6428802263403527284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28d3b1c17de656c0800000000000000
+      internalID: -4154872533365827539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57368d3d08092f50800000000000000
+      internalID: 6857020760608094042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0aea8b9f54568d0800000000000000
+      internalID: -2853797850021715765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c825d4fe967982aa0800000000000000
+      internalID: -6185527606951193972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed1fc81769f58c40800000000000000
+      internalID: 5514087539978214888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab8407dbaf284900800000000000000
+      internalID: 668836959757831080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_0: 3061260332328469880
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_1: 138106800196687821
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_10: -5260057726708874491
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_11: 7222991066516248360
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_12: -6773189041879961399
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_13: 7556058782673836124
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_14: 359374715282254032
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_15: -1386686812055322979
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_16: 6654903822891146109
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_17: 1786204259431560080
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_18: -1784894854108799525
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_19: 3038494433345804261
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_2: -330487047393532412
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_20: -2882492588796323976
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_21: -1506286179990485810
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_22: -3123372953896775540
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_23: -4074659131065441219
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_24: -1433220605924259783
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_25: 2634264203624821677
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_26: -4574445546911609191
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_27: 7056133177024112561
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_28: -6242308493365163932
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_29: 8809109242796867184
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_3: 6073690179540481173
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_30: -6428802263403527284
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_31: -4154872533365827539
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_32: 6857020760608094042
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_33: -2853797850021715765
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_34: -6185527606951193972
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_35: 5514087539978214888
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_36: 668836959757831080
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_4: -5888418210618125321
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_5: -7594121973138714390
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_6: -245656024989665278
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_7: -1323392943063132158
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_8: 5772112469149903844
+      Arcade - Ghouls 'n Ghosts - Weapons - Lance and Dagger_9: 3470978944184010853
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

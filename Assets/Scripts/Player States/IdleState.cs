@@ -49,12 +49,6 @@ public class IdleState : State
 
      
 
-        UIscript.ui.DrawText("*** This is the idle state ***\n");
-        UIscript.ui.DrawText("Space = Jump State");
-        UIscript.ui.DrawText("Left/Right arrows = Move State");
-        UIscript.ui.DrawText("C = Start the coroutine");
-        UIscript.ui.DrawText("Q = Death State");
-        UIscript.ui.DrawText("F = Attacking State");
 
     }
 

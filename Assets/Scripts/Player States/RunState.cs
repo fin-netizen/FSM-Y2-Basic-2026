@@ -34,9 +34,6 @@ public class RunState : State
     public override void Update()
     {
 
-        TestMethod("hello");
-
-        
 
         ReadInput();
 
@@ -59,15 +56,9 @@ public class RunState : State
         }
 
         //debug move gameObject
-        player.rb.linearVelocity = player.moveAction.ReadValue<Vector2>() * speed;
+        player.rb.linearVelocityX = player.moveAction.ReadValue<Vector2>().x * speed;
 
 
-        UIscript.ui.DrawText("*** This is the running state ***\n");
-        UIscript.ui.DrawText("Left/Right arrows = Move Sprite");
-        UIscript.ui.DrawText("E = Idle State");
-        UIscript.ui.DrawText("Space = Jump state");
-        UIscript.ui.DrawText("Q = Death State");
-        UIscript.ui.DrawText("F = Attacking State");
 
 
     }
