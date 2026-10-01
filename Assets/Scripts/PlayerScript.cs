@@ -83,7 +83,7 @@ public class PlayerScript : MonoBehaviour
 
         rb.transform.position = new Vector3(transform.position.x + 2, transform.position.y + 1, transform.position.z + 1);
 
-        rb.transform.Rotate(new Vector3(0, 0, 315));
+        rb.transform.Rotate(new Vector3(0, 0, 0));
     }
     
 

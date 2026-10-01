@@ -19,10 +19,10 @@ public class AttackState : State
 
         //start your attack animation
 
-        player.anim.SetBool("Attack", true);
+        player.anim.SetBool("attack", true);
 
-        attackTime = 1;
-        destroyTime = 0.5f;
+        attackTime = 0.5f;
+        destroyTime = 0.25f;
         //instantiate a weapon prefab
         player.SpawnWeapon();
 
@@ -36,7 +36,7 @@ public class AttackState : State
         base.Exit();
 
         //do stuff to stop the animation
-        player.anim.SetBool("Attack", false);
+        player.anim.SetBool("attack", false);
     }
 
 
@@ -46,7 +46,6 @@ public class AttackState : State
       
         ReadInput();
 
-
         //check for the attack finishing
         attackTime -= Time.deltaTime;
         destroyTime -= Time.deltaTime;
@@ -54,6 +53,8 @@ public class AttackState : State
         if (destroyTime < 0)
         {
             Object.Destroy(player.weapon);
+            destroyTime = 0.5f;
+            
         }
         if (attackTime < 0)
         {
