@@ -8,6 +8,7 @@ using System.Collections;
 public class IdleState : State
 {
     // constructor
+
     public IdleState( PlayerScript player, StateMachine sm) : base(player, sm)
     {
     }
@@ -33,8 +34,9 @@ public class IdleState : State
     public override void Update()
     {
 
+        
 
-        if( player.moveAction.ReadValue<Vector2>().magnitude > 0.1f )
+        if ( player.moveAction.ReadValue<Vector2>().magnitude > 0.1f )
         {
             sm.ChangeState(sm.runState);
         }
@@ -48,7 +50,11 @@ public class IdleState : State
         {
             sm.ChangeState(sm.attackState);
         }
-
+        if(player.rb.linearVelocityY <= -12)
+        {
+            player.anim.SetBool("dying", true);
+            sm.ChangeState(sm.deathState);
+        }
      
 
 

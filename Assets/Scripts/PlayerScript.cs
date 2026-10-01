@@ -10,7 +10,7 @@ public class PlayerScript : MonoBehaviour
     public SpriteRenderer sr;
     public Rigidbody2D rb;
     public Animator anim;
-
+    public Transform respawnPoint;
     StateMachine sm;
     public GameObject weapon;
 
@@ -85,7 +85,12 @@ public class PlayerScript : MonoBehaviour
 
         rb.transform.Rotate(new Vector3(0, 0, 0));
     }
-    
 
+    public void RespawnPlayer()
+    {
+        transform.position = respawnPoint.position;
+        sm.ChangeState(sm.idleState);
+        rb.linearVelocity = new Vector2(0, 0);
+    }
 
 }

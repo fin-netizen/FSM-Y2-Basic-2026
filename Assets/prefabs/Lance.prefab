@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 171206384950008889}
   - component: {fileID: 2014024845668281266}
   - component: {fileID: 1810872160252745783}
-  m_Layer: 0
+  - component: {fileID: -157777116207737158}
+  m_Layer: 6
   m_Name: Lance
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -120,3 +121,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-157777116207737158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3427048043190480921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c64d6f3009ab0984d80055e242e0b34a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::weaponScript

@@ -4,12 +4,13 @@
 // You can include methods that you want to allow other states to use here
 
 using UnityEngine;
+using static UnityEngine.RuleTile.TilingRuleOutput;
 
 public abstract class State
 {
     protected PlayerScript player;
     protected StateMachine sm;
-    
+    public bool isFacingRight;
     protected float xvel, yvel;
     public float verticalInput;
     public float horizontalInput;
@@ -75,6 +76,12 @@ public abstract class State
         Debug.DrawRay(position, direction, color);
         hit = Physics2D.Raycast(position, direction, distance, groundLayer);
     }
-
+    public void Flip()
+    {
+        isFacingRight = !isFacingRight;
+        Vector3 localScale = player.transform.localScale;
+        localScale.x *= -1f;
+        player.transform.localScale = localScale;
+    }
 
 }

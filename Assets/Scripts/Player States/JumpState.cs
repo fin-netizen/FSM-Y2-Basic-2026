@@ -3,6 +3,7 @@
 
 
 using Unity.VisualScripting.FullSerializer;
+using UnityEditor.Tilemaps;
 using UnityEngine;
 
 public class JumpState : State
@@ -30,9 +31,16 @@ public class JumpState : State
     public override void Update()
     {
         IsGrounded();
-
         ReadInput();
-
+        if (player.rb.linearVelocityX < 0 && isFacingRight == false && isGrounded == false)
+        {
+            Flip();
+        }
+        if (player.rb.linearVelocityX > 0 && isFacingRight == true && isGrounded == false)
+        {
+            Flip();
+        }
+        
         Debug.Log("grounded=" + isGrounded);
         if (isGrounded == true && player.rb.linearVelocityY <= 0 )
         {
@@ -46,6 +54,11 @@ public class JumpState : State
         if (player.attackAction.IsPressed())
         {
             sm.ChangeState(sm.attackState);
+        }
+        if (player.rb.linearVelocityY <= -12)
+        {
+            player.anim.SetBool("dying", true);
+            sm.ChangeState(sm.deathState);
         }
     }
 

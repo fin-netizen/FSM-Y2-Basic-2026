@@ -34,9 +34,16 @@ public class RunState : State
     public override void Update()
     {
 
-
+        
         ReadInput();
-
+        if(player.rb.linearVelocityX <= 0 && isFacingRight == false)
+        {
+            Flip();
+        }
+        if (player.rb.linearVelocityX >= 0 && isFacingRight == true)
+        {
+            Flip();
+        }
         if (player.moveAction.ReadValue<Vector2>().magnitude <= 0.1f)
         {
             sm.ChangeState(sm.idleState);
@@ -54,7 +61,11 @@ public class RunState : State
         {
             sm.ChangeState(sm.attackState);
         }
-
+        if (player.rb.linearVelocityY <= -12)
+        {
+            player.anim.SetBool("dying", true);
+            sm.ChangeState(sm.deathState);
+        }
         //debug move gameObject
         player.rb.linearVelocityX = player.moveAction.ReadValue<Vector2>().x * speed;
 
