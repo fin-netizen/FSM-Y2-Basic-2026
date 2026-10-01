@@ -1,9 +1,12 @@
-using UnityEngine;
 using System.Collections;
+using UnityEngine;
+using static UnityEngine.RuleTile.TilingRuleOutput;
 
 public class AttackState : State
 {
     float attackTime;
+    float destroyTime;
+    public float testVariable;
 
     public AttackState(PlayerScript player, StateMachine sm) : base(player, sm)
     {
@@ -18,8 +21,14 @@ public class AttackState : State
 
         player.anim.SetBool("Attack", true);
 
-        attackTime = 3;
-       
+        attackTime = 1;
+        destroyTime = 0.5f;
+        //instantiate a weapon prefab
+        player.SpawnWeapon();
+
+
+
+
     }
 
     public override void Exit()
@@ -37,14 +46,18 @@ public class AttackState : State
       
         ReadInput();
 
+
         //check for the attack finishing
         attackTime -= Time.deltaTime;
-
-        if( attackTime < 0 )
+        destroyTime -= Time.deltaTime;
+        
+        if (destroyTime < 0)
+        {
+            Object.Destroy(player.weapon);
+        }
+        if (attackTime < 0)
         {
             sm.ChangeState(sm.idleState);
         }
-
-
     }
 }

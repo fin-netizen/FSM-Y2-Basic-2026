@@ -3,9 +3,7 @@
 // It defines the common methods and fields that all other states inherit
 // You can include methods that you want to allow other states to use here
 
-using Unity.VisualScripting.FullSerializer;
 using UnityEngine;
-using static UnityEngine.RuleTile.TilingRuleOutput;
 
 public abstract class State
 {

@@ -13,6 +13,7 @@ public class PlayerScript : MonoBehaviour
 
     StateMachine sm;
     public GameObject weapon;
+
     //define the actions
     public InputAction moveAction;
     public InputAction crouchAction;
@@ -69,6 +70,20 @@ public class PlayerScript : MonoBehaviour
     void OnTriggerExit2D(Collider2D collision)
     {
         sm.currentState.OnTriggerExit2D(collision);
+    }
+
+    public void SpawnWeapon()
+    {
+        GameObject clone;
+        clone = Instantiate(weapon, transform.position, Quaternion.identity);
+
+        Rigidbody2D rb = clone.GetComponent<Rigidbody2D>();
+
+        rb.linearVelocity = new Vector2(12, 0);
+
+        rb.transform.position = new Vector3(transform.position.x + 2, transform.position.y + 1, transform.position.z + 1);
+
+        rb.transform.Rotate(new Vector3(0, 0, 315));
     }
     
 
